@@ -1,0 +1,367 @@
+Key findings
+Economic, health and geopolitical trends have
+created divergent outcomes for labour markets
+globally in 2023. While tight labour markets are
+prevalent in high-income countries, low- and
+lower-middle-income countries continue to see
+higher unemployment than before the COVID-19
+pandemic. On an individual level, labour-market
+outcomes are also diverging, as workers with
+only basic education and women face lower
+employment levels. At the same time, real wages
+are declining as a result of an ongoing cost-ofliving
+crisis, and changing worker expectations and
+concerns about the quality of work are becoming
+more prominent issues globally.
+
+The fourth edition of the Survey has the widest
+coverage thus far by topic, geography and
+sector. The Future of Jobs Survey brings together
+the perspective of 803 companies – collectively
+employing more than 11.3 million workers – across
+27 industry clusters and 45 economies from all
+world regions. The Survey covers questions of
+macrotrends and technology trends, their impact
+on jobs, their impact on skills, and the workforce
+transformation strategies businesses plan to use,
+across the 2023-2027 timeframe.
+
+Technology adoption will remain a key driver
+of business transformation in the next five
+years. Over 85% of organizations surveyed
+identify increased adoption of new and frontier
+technologies and broadening digital access as the
+trends most likely to drive transformation in their
+organization. Broader application of Environmental,
+Social and Governance (ESG) standards within
+their organizations will also have a significant
+impact. The next most-impactful trends are
+macroeconomic: the rising cost of living and slow
+economic growth. The impact of investments to
+drive the green transition was judged to be the
+sixth-most impactful macrotrend, followed by
+supply shortages and consumer expectations
+around social and environmental issues. Though
+still expected to drive the transformation of
+almost half of companies in the next five years,
+the ongoing impact of the COVID-19 pandemic,
+increased geopolitical divisions and demographic
+dividends in developing and emerging economies
+were ranked lower as drivers of business evolution
+by respondents
+
+The largest job creation and destruction effects
+come from environmental, technology and
+economic trends. Among the macrotrends listed,
+businesses predict the strongest net job-creation
+effect to be driven by investments that facilitate
+the green transition of businesses, the broader
+application of ESG standards and supply chains
+becoming more localized, albeit with job growth
+offset by partial job displacement in each case.
+Climate change adaptation and the demographic
+dividend in developing and emerging economies
+also rate high as net job creators. Technological
+advancement through increased adoption of
+new and frontier technologies and increased
+digital access are expected to drive job growth
+in more than half of surveyed companies, offset
+by expected job displacement in one-fifth of
+companies. The net job creation effect places these
+two trends in 6th and 8th place respectively. The
+three key drivers of expected net job destruction
+are slower economic growth, supply shortages
+and the rising cost of inputs, and the rising cost of
+living for consumers. Employers also recognize that
+increased geopolitical divisions and the ongoing
+impact of the COVID-19 pandemic will drive labourmarket
+disruption – with an even split between
+employers who expect these trends to have a
+positive impact and employers who expect them to
+have a negative impact on jobs.
+
+Within technology adoption, big data, cloud
+computing and AI feature highly on likelihood of
+adoption. More than 75% of companies are looking
+to adopt these technologies in the next five years.
+The data also shows the impact of the digitalization
+of commerce and trade. Digital platforms and apps
+are the technologies most likely to be adopted by
+the organizations surveyed, with 86% of companies
+expecting to incorporate them into their operations
+in the next five years. E-commerce and digital trade
+are expected to be adopted by 75% of businesses.
+The second-ranked technology encompasses
+education and workforce technologies, with 81%
+of companies looking to adopt these technologies
+by 2027. The adoption of robots, power storage
+technology and distributed ledger technologies rank
+lower on the list.
+
+The impact of most technologies on jobs is
+expected to be a net positive over the next
+five years. Big data analytics, climate change
+Key findings
+May 2023 Future of Jobs Report 2023
+Future of Jobs Report 2023 5
+and environmental management technologies,
+and encryption and cybersecurity are expected
+to be the biggest drivers of job growth.
+Agriculture technologies, digital platforms and
+apps, e-commerce and digital trade, and AI
+are all expected to result in significant labourmarket
+disruption, with substantial proportions of
+companies forecasting job displacement in their
+organizations, offset by job growth elsewhere to
+result in a net positive. All but two technologies
+are expected to be net job creators in the next five
+years: humanoid robots and non-humanoid robots.
+
+Employers anticipate a structural labour market
+churn of 23% of jobs in the next five years. This
+can be interpreted as an aggregate measure of
+disruption, constituting a mixture of emerging jobs
+added and declining jobs eliminated. Respondents
+to this year’s Future of Jobs Survey expect a
+higher-than-average churn in the Supply Chain
+and Transportation and Media, Entertainment and
+Sports industries, and lower-than-average churn
+in Manufacturing as well as Retail and Wholesale
+of Consumer Goods. Of the 673 million jobs
+reflected in the dataset in this report, respondents
+expect structural job growth of 69 million jobs and
+a decline of 83 million jobs. This corresponds to a
+net decrease of 14 million jobs, or 2% of current
+employment.
+
+The human-machine frontier has shifted, with
+businesses introducing automation into their
+operations at a slower pace than previously
+anticipated. Organizations today estimate that
+34% of all business-related tasks are performed by
+machines, with the remaining 66% performed by
+humans. This represents a negligible 1% increase
+in the level of automation that was estimated by
+respondents to the 2020 edition of the Future of
+Jobs Survey. This pace of automation contradicts
+expectations from 2020 survey respondents
+that almost half (47%) of business tasks would
+be automated in the following five years. Today,
+respondents have revised down their expectations
+for future automation to predict that 42% of
+business tasks will be automated by 2027. Task
+automation in 2027 is expected to vary from 35%
+of reasoning and decision-making to 65% of
+information and data processing.
+
+But while expectations of the displacement of
+physical and manual work by machines has
+decreased, reasoning, communicating and
+coordinating – all traits with a comparative
+advantage for humans – are expected to be more
+automatable in the future. Artificial intelligence, a
+key driver of potential algorithmic displacement, is
+expected to be adopted by nearly 75% of surveyed
+companies and is expected to lead to high churn –
+with 50% of organizations expecting it to create job
+growth and 25% expecting it to create job losses.
+
+The combination of macrotrends and
+technology adoption will drive specific areas of
+job growth and decline:
+
+The fastest-growing roles relative to
+their size today are driven by technology,
+digitalization and sustainability. The majority
+of the fastest growing roles are technologyrelated
+roles. AI and Machine Learning
+Specialists top the list of fast-growing jobs,
+followed by Sustainability Specialists, Business
+Intelligence Analysts and Information Security
+Analysts. Renewable Energy Engineers, and
+Solar Energy Installation and System Engineers
+are relatively fast-growing roles, as economies
+shift towards renewable energy.
+– The fastest-declining roles relative to their
+size today are driven by technology and
+digitalization. The majority of fastest declining
+roles are clerical or secretarial roles, with Bank
+Tellers and Related Clerks, Postal Service
+Clerks, Cashiers and Ticket Clerks, and Data
+Entry Clerks expected to decline fastest.
+– Large-scale job growth is expected in
+education, agriculture and digital commerce
+and trade. Jobs in the Education industry are
+expected to grow by about 10%, leading to 3
+million additional jobs for Vocational Education
+Teachers and University and Higher education
+Teachers. Jobs for agricultural professionals,
+especially Agricultural Equipment Operators, are
+expected to see an increase of around 30%,
+leading to an additional 3 million jobs. Growth
+is forecast in approximately 4 million digitallyenabled
+roles, such as E-Commerce Specialists,
+Digital Transformation Specialists, and Digital
+Marketing and Strategy Specialists.
+– The largest losses are expected in
+administrative roles and in traditional
+security, factory and commerce roles.
+Surveyed organizations predict 26 million
+fewer jobs by 2027 in Record-Keeping and
+Administrative roles, including Cashiers
+and Ticket Clerks; Data Entry, Accounting,
+Bookkeeping and Payroll Clerks; and
+Administrative and Executive Secretaries, driven
+mainly by digitalization and automation.
+– Analytical thinking and creative thinking
+remain the most important skills for workers
+in 2023. Analytical thinking is considered a core
+skill by more companies than any other skill
+and constitutes, on average, 9% of the core
+skills reported by companies. Creative thinking,
+another cognitive skill, ranks second, ahead of
+three self-efficacy skills – resilience, flexibility
+and agility; motivation and self-awareness; and
+curiosity and lifelong learning – in recognition
+of the importance of workers ability to adapt
+to disrupted workplaces. Dependability
+and attention to detail, ranks sixth, behind
+technological literacy. The core skills top 10 is
+completed by two attitudes relating to working
+with others – empathy and active listening and
+leadership and social influence – as well as
+quality control.
+
+mployers estimate that 44% of workers’ skills
+will be disrupted in the next five years. Cognitive
+skills are reported to be growing in importance
+most quickly, reflecting the increasing importance
+of complex problem-solving in the workplace.
+Surveyed businesses report creative thinking to
+be growing in importance slightly more rapidly
+than analytical thinking. Technology literacy is
+the third-fastest growing core skill. Self-efficacy
+skills rank above working with others, in the rate
+of increase in importance of skills reported by
+businesses. The socio-emotional attitudes which
+businesses consider to be growing in importance
+most quickly are curiosity and lifelong learning;
+resilience, flexibility and agility; and motivation and
+self-awareness. Systems thinking, AI and big data,
+talent management, and service orientation and
+customer service complete the top 10 growing
+skills. While respondents judged no skills to be
+in net decline, sizable minorities of companies
+judge reading, writing and mathematics; global
+citizenship; sensory-processing abilities; and
+manual dexterity, endurance and precision to be of
+declining importance for their workers.
+Six in 10 workers will require training before
+2027, but only half of workers are seen to have
+access to adequate training opportunities
+today. The highest priority for skills training from
+2023-2027 is analytical thinking, which is set to
+account for 10% of training initiatives, on average.
+The second priority for workforce development is to
+promote creative thinking, which will be the subject
+of 8% of upskilling initiatives. Training workers to
+utilize AI and big data ranks third among company
+skills-training priorities in the next five years and
+will be prioritized by 42% of surveyed companies.
+Employers also plan to focus on developing
+worker’s skills in leadership and social influence
+(40% of companies); resilience, flexibility and agility
+(32%); and curiosity and lifelong learning (30%).
+Two-thirds of companies expect to see a return
+on investment on skills training within a year of
+the investment, whether in the form of enhanced
+cross-role mobility, increased worker satisfaction or
+enhanced worker productivity.
+The skills that companies report to be
+increasing in importance the fastest are
+not always reflected in corporate upskilling
+strategies. Beyond the top-ranked cognitive skills
+are two skills which companies prioritize much more
+highly than would appear according to their current
+importance to their workforce: AI and big data as
+well as leadership and social influence. Companies
+rank AI and big data 12 places higher in their skills
+strategies than in their evaluation of core skills, and
+report that they will invest an estimated 9% of their
+reskilling efforts in it – a greater proportion than the
+more highly-ranked creative thinking, indicating that
+though AI and big data is part of fewer strategies,
+it tends to be a more important element when it
+is included. Leadership and social influence ranks
+five places higher than suggested by its current
+importance and is the highest ranked attitude.
+Other skills which are strategically emphasized
+by business are design and user experience (nine
+places higher), environmental stewardship (10
+places higher), marketing and media (six places
+higher) and networks and cybersecurity (five places
+higher).
+Respondents express confidence in developing
+their existing workforce, however, they are
+less optimistic regarding the outlook for talent
+availability in the next five years. Accordingly,
+organizations identify skills gaps and an inability
+to attract talent as the key barriers preventing
+industry transformation. In response 48% of
+companies identify improving talent progression and
+promotion processes as a key business practice
+that can increase the availability of talent to their
+organization, ahead of offering higher wages (36%)
+and offering effective reskilling and upskilling (34%).
+Surveyed companies report that investing in
+learning and on-the-job training and automating
+processes are the most common workforce
+strategies which will be adopted to deliver
+their organizations’ business goals. Four in five
+respondents expect to implement these strategies
+in the next five years. Workforce development is
+most commonly considered to be the responsibility
+of workers and managers, with 27% of training
+expected to be furnished by on-the-job training and
+coaching, ahead of the 23% by internal training
+departments and the 16% by employer-sponsored
+apprenticeships. To close skills gaps, respondents
+expect to reject external training solutions in favour
+of company-led initiatives.
+
+A majority of companies will prioritize women
+(79%), youth under 25 (68%) and those
+with disabilities (51%) as part of their DEI
+programmes. A minority will prioritize those from a
+disadvantaged religious, ethnic or racial background
+(39%), workers over age 55 (36%), those who
+identify as LGBTQI+ (35%) and those from a lowincome
+background (33%).
+Forty-five percent of businesses see funding
+for skills training as an effective intervention
+available to governments seeking to connect
+talent to employment. Funding for skills training
+ranks ahead of flexibility on hiring and firing
+practices (33%), tax and other incentives for
+companies to improve wages (33%), improvements
+to school systems (31%) and changes to
+immigration laws on foreign talent (28%).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
